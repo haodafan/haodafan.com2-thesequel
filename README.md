@@ -37,6 +37,8 @@ I do actually have a few questions for ASP.NET Core experts out there...
 
 **Q:** What files should I include in my .gitignore? Are there any files that don't need to be in the repository (like if this was made with Node.JS, I would put node_modules in it)? 
 
+**Q:** How do you use SCSS with ASP.NET Core? 
+
 **Q:** What the hell is a blog?
 
 ### How do I build your website on my local machine?
