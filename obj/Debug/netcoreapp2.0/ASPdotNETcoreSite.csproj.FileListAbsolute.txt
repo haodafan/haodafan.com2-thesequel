@@ -1,0 +1,11 @@
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Debug\netcoreapp2.0\ASPdotNETcoreSite.deps.json
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Debug\netcoreapp2.0\ASPdotNETcoreSite.runtimeconfig.json
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Debug\netcoreapp2.0\ASPdotNETcoreSite.runtimeconfig.dev.json
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Debug\netcoreapp2.0\ASPdotNETcoreSite.dll
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Debug\netcoreapp2.0\ASPdotNETcoreSite.pdb
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Debug\netcoreapp2.0\ASPdotNETcoreSite.csprojResolveAssemblyReference.cache
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Debug\netcoreapp2.0\ASPdotNETcoreSite.csproj.CoreCompileInputs.cache
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Debug\netcoreapp2.0\ASPdotNETcoreSite.AssemblyInfoInputs.cache
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Debug\netcoreapp2.0\ASPdotNETcoreSite.AssemblyInfo.cs
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Debug\netcoreapp2.0\ASPdotNETcoreSite.dll
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Debug\netcoreapp2.0\ASPdotNETcoreSite.pdb
