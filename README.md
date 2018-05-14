@@ -11,7 +11,7 @@ Good thing the original Haoda Fan Dot Com is low quality garbage that nobody car
 
 ## Development
 
-Haoda Fan Dot Com 2 - The Sequel will be developed with AS
+Haoda Fan Dot Com 2 - The Sequel will be developed with ASP.NET Core 2.1 
 
 I plan on using the following technologies to help me in this endeavour:
 - ASP.NET 2.1 Core
@@ -23,7 +23,7 @@ I plan on implementing the following features:
 - Some kind of Dynamic homepage [NOT STARTED]
 - A Blog [TO BE HONEST I DONT EVEN REALLY KNOW WHAT A BLOG IS]
 - A Gallery for art and photos [NOT STARTED]
-- Some kind of feed that pulls things from a database. And when I say things I mean ... memes. I am a cool guy.
+- Some kind of feed that pulls things from a database. And when I say things I mean ... memes. I am a cool guy. [NOT STARTED]
 
 ## Your website is SO COOL, I want to contribute to it!!!
 
@@ -38,6 +38,8 @@ I do actually have a few questions for ASP.NET Core experts out there...
 **Q:** What files should I include in my .gitignore? Are there any files that don't need to be in the repository (like if this was made with Node.JS, I would put node_modules in it)? 
 
 **Q:** How do you use SCSS with ASP.NET Core? 
+
+**Q:** How do you install ASP.NET Core onto a Ubuntu 14.04 server? I know Microsoft has a little guide on it, but it always returns an error. Maybe I'll ask Stack Overflow ... 
 
 **Q:** What the hell is a blog?
 
