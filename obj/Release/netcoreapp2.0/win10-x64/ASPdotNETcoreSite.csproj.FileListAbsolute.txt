@@ -1,0 +1,13 @@
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.exe
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.deps.json
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.runtimeconfig.json
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.runtimeconfig.dev.json
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.dll
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\bin\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.pdb
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.csproj.CoreCompileInputs.cache
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.AssemblyInfoInputs.cache
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.AssemblyInfo.cs
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.dll
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\obj\Release\netcoreapp2.0\win10-x64\ASPdotNETcoreSite.pdb

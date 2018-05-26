@@ -11,10 +11,10 @@ Good thing the original Haoda Fan Dot Com is low quality garbage that nobody car
 
 ## Development
 
-Haoda Fan Dot Com 2 - The Sequel will be developed with AS
+Haoda Fan Dot Com 2 - The Sequel will be developed with ASP.NET Core 2.1
 
 I plan on using the following technologies to help me in this endeavour:
-- ASP.NET 2.1 Core
+- ASP.NET Core 2.1
 - SCSS (because CSS kinda sucks)
 
 I plan on implementing the following features:
@@ -37,7 +37,7 @@ I do actually have a few questions for ASP.NET Core experts out there...
 
 **Q:** What files should I include in my .gitignore? Are there any files that don't need to be in the repository (like if this was made with Node.JS, I would put node_modules in it)? 
 
-**Q:** What the hell is a blog?
+**Q:** 
 
 ### How do I build your website on my local machine?
 

@@ -1,0 +1,15 @@
+C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=ASPdotNETcoreSite
+--content-root=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\About.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\Contact.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\Error.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\Example.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\hire-me.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\index.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\_Layout.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\_LayoutExample.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\_ViewImports.cshtml
+--file=C:\Users\Haoda (the great)\Documents\HaodaFanDotComRemasteredHD\ASPdotNETcoreSite\ASPdotNETcoreSite\Pages\_ViewStart.cshtml
